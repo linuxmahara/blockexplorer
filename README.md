@@ -13,7 +13,7 @@ This is a complete rewrite of the PHP block explorer/crawler that powers blockex
 
 At the moment there is no installer, configuration and setup will need to be done manually:
 
-1. Create *conf/coin.conf.php* and *conf/db.conf.php* using samples.
+1. Create *config/coin.conf.php* and *config/db.conf.php* using samples.
 2. Create a database and import schema.sql
 
 ### Testing
