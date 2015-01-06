@@ -1,0 +1,5 @@
+*
+!.gitignore
+!.htaccess
+!sample-coin.conf.php
+!sample-db.conf.php
